@@ -9,6 +9,10 @@ body {
 h1 {
   color: white;
   text-align: center;
+h2 {
+    font-size: 30;
+    color: white;
+    text-align: center;
 }
 
 p {
@@ -20,6 +24,7 @@ p {
 <body>
 
 <h1>My First site test by Roma Fodchuk</h1>
+<h2>My I a adding a line to check updates</h1>
 <p>How about some testing?</p>
 <p>Oh OK</p>
 
